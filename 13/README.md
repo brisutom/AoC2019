@@ -1,0 +1,1 @@
+Part 2 requires a bit of explanation. The way this was supposed to be solved was by writing a simple AI for the breakout game in order to win it. I opted for a different solution. I simply edited the "memory" of the provided opcode program to include a wall at the bottom, so the game cannot be lost, thus getting the solution.
